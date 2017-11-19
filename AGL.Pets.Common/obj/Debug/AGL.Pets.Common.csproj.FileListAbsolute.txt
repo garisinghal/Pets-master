@@ -1,0 +1,14 @@
+C:\Users\Garima\Desktop\Study\Interview Assignment\AGL.Pets-master\AGL.Pets.Common\bin\Debug\AGL.Pets.Common.dll
+C:\Users\Garima\Desktop\Study\Interview Assignment\AGL.Pets-master\AGL.Pets.Common\bin\Debug\AGL.Pets.Common.pdb
+C:\Users\Garima\Desktop\Study\Interview Assignment\AGL.Pets-master\AGL.Pets.Common\bin\Debug\AGL.Pets.Domain.dll
+C:\Users\Garima\Desktop\Study\Interview Assignment\AGL.Pets-master\AGL.Pets.Common\bin\Debug\AGL.Pets.Domain.pdb
+C:\Users\Garima\Desktop\Study\Interview Assignment\AGL.Pets-master\AGL.Pets.Common\obj\Debug\AGL.Pets.Common.csprojResolveAssemblyReference.cache
+C:\Users\Garima\Desktop\Study\Interview Assignment\AGL.Pets-master\AGL.Pets.Common\obj\Debug\AGL.Pets.Common.dll
+C:\Users\Garima\Desktop\Study\Interview Assignment\AGL.Pets-master\AGL.Pets.Common\obj\Debug\AGL.Pets.Common.pdb
+C:\Users\Garima\Desktop\Study\Interview Assignment\Pets-master\AGL.Pets.Common\bin\Debug\AGL.Pets.Common.dll
+C:\Users\Garima\Desktop\Study\Interview Assignment\Pets-master\AGL.Pets.Common\bin\Debug\AGL.Pets.Common.pdb
+C:\Users\Garima\Desktop\Study\Interview Assignment\Pets-master\AGL.Pets.Common\bin\Debug\AGL.Pets.Domain.dll
+C:\Users\Garima\Desktop\Study\Interview Assignment\Pets-master\AGL.Pets.Common\bin\Debug\AGL.Pets.Domain.pdb
+C:\Users\Garima\Desktop\Study\Interview Assignment\Pets-master\AGL.Pets.Common\obj\Debug\AGL.Pets.Common.csprojResolveAssemblyReference.cache
+C:\Users\Garima\Desktop\Study\Interview Assignment\Pets-master\AGL.Pets.Common\obj\Debug\AGL.Pets.Common.dll
+C:\Users\Garima\Desktop\Study\Interview Assignment\Pets-master\AGL.Pets.Common\obj\Debug\AGL.Pets.Common.pdb

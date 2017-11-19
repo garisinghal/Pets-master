@@ -1,0 +1,70 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pets.Utility", "AGL.Pets.Utility\Pets.Utility.csproj", "{AFD4C9C7-4DC9-4BFE-ADA8-DA30337DFC5F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pets.Domain", "AGL.Pets.Domain\Pets.Domain.csproj", "{8538966B-8F35-4A77-A09B-28B503EA48BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pets.Common", "AGL.Pets.Common\Pets.Common.csproj", "{924B4386-679E-47EC-AF1B-73112319B2E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pets.UnitTests", "AGL.Pets.UnitTests\Pets.UnitTests.csproj", "{D5D19E56-8D56-4135-9E61-81878F2108BC}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Documentation", "Documentation", "{31A669D6-4171-4F3A-B99D-1E9203A3EF90}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AGL.Pets.Web", "AGL.Pets.Web\", "{5B74358B-E081-424F-869B-F344BD07E329}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5.2"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_55740"
+		Debug.AspNetCompiler.PhysicalPath = "AGL.Pets.Web\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55740\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_55740"
+		Release.AspNetCompiler.PhysicalPath = "AGL.Pets.Web\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_55740\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "55740"
+		SlnRelativePath = "AGL.Pets.Web\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AFD4C9C7-4DC9-4BFE-ADA8-DA30337DFC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AFD4C9C7-4DC9-4BFE-ADA8-DA30337DFC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AFD4C9C7-4DC9-4BFE-ADA8-DA30337DFC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AFD4C9C7-4DC9-4BFE-ADA8-DA30337DFC5F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8538966B-8F35-4A77-A09B-28B503EA48BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8538966B-8F35-4A77-A09B-28B503EA48BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8538966B-8F35-4A77-A09B-28B503EA48BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8538966B-8F35-4A77-A09B-28B503EA48BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{924B4386-679E-47EC-AF1B-73112319B2E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{924B4386-679E-47EC-AF1B-73112319B2E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{924B4386-679E-47EC-AF1B-73112319B2E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{924B4386-679E-47EC-AF1B-73112319B2E2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D19E56-8D56-4135-9E61-81878F2108BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D19E56-8D56-4135-9E61-81878F2108BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D19E56-8D56-4135-9E61-81878F2108BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D19E56-8D56-4135-9E61-81878F2108BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5B74358B-E081-424F-869B-F344BD07E329}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B74358B-E081-424F-869B-F344BD07E329}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B74358B-E081-424F-869B-F344BD07E329}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B74358B-E081-424F-869B-F344BD07E329}.Release|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

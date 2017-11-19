@@ -1,0 +1,4 @@
+C:\Users\Garima\Desktop\Study\Interview Assignment\Pets-master\AGL.Pets.Domain\bin\Debug\AGL.Pets.Domain.dll
+C:\Users\Garima\Desktop\Study\Interview Assignment\Pets-master\AGL.Pets.Domain\bin\Debug\AGL.Pets.Domain.pdb
+C:\Users\Garima\Desktop\Study\Interview Assignment\Pets-master\AGL.Pets.Domain\obj\Debug\AGL.Pets.Domain.dll
+C:\Users\Garima\Desktop\Study\Interview Assignment\Pets-master\AGL.Pets.Domain\obj\Debug\AGL.Pets.Domain.pdb

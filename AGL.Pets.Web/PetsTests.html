@@ -1,0 +1,24 @@
+﻿<!doctype html> 
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>GetCatsByOwnerGender Tests</title>
+    <link rel="stylesheet" href="https://code.jquery.com/qunit/qunit-2.0.1.css">
+</head>
+<body>
+
+    <div id="qunit"></div>
+
+    <script src="Scripts/jQuery/jquery-1.10.2.min.js"></script>
+    <script src="Scripts/LinqJs/linq.min.js"></script>
+    <script src="https://code.jquery.com/qunit/qunit-2.0.1.js"></script>
+    <script src="Scripts/petsRepository.js"></script>
+
+    <script>
+        QUnit.test("GetCatsByOwnerGender Tests", function (assert) {
+            var sampleData = [{ name: "Bob", gender: "Male", age: 23, pets: [{ name: "Garfield", type: "Cat" }, { name: "Fido", type: "Dog" }] }];
+            assert.deepEqual(GetCatsByOwnerGender(sampleData), [{ gender: "Male", pets: [{ name: "Garfield", type: "Cat" }] }]);
+        });
+    </script>
+</body>
+</html>
