@@ -13,13 +13,13 @@ SOLUTION DESCRIPTION
 
 The solution consists of 5 projects.
 
-1. AGL.Pets.Common contains interfaces used for dependency injection.
+1. Pets.Common contains interfaces used for dependency injection.
  
-2. AGL.Pets.Domain contains two classes (Person, Pet) used to deserialize the Json data.
+2. Pets.Domain contains two classes (Person, Pet) used to deserialize the Json data.
  
-3. AGL.Pets.UnitTests contains tests for the PersonsRepository.GetPets.
+3. Pets.UnitTests contains tests for the PersonsRepository.GetPets.
  
-4. AGL.Pets.Utiltity is a Windows Console app project. 
+4. Pets.Utiltity is a Windows Console app project. 
 This project defines a PersonRepository class which is used to list Pets in the requested structure described by the coding challenge.
 
 5. A web project to demonstrate a testable JavaScript version
